@@ -9,10 +9,6 @@
 Einstein Battle not only presents challenging scientific questions but also actively participates in discussions, offering counterarguments and alternative perspectives to encourage deeper understanding. With a nod to Einstein’s historical debates and scientific milestones, the custom GPT guides users through a structured, step-by-step exploration of topics, making complex ideas more accessible. It’s like having a friendly debate with Einstein himself, where the goal is to outthink, outsmart, and outlearn—always with a sense of humor and mutual respect.
 
 #
-
-https://github.com/user-attachments/assets/62f1b627-01ae-4649-8927-c802d5fb763e
-
-#
 ###
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
