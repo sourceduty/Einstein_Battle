@@ -16,6 +16,10 @@ Einstein Battle not only presents challenging scientific questions but also acti
 ###
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Electricity Game](https://github.com/sourceduty/Electricity_Game)
+<br>
+[Einstein Game](https://github.com/sourceduty/Einstein_Game)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
