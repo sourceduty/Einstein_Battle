@@ -1,4 +1,4 @@
-![Einstein Battle](https://github.com/user-attachments/assets/3fb58f46-6f02-457f-8951-058bc62d6c13)
+![Einstein](https://github.com/user-attachments/assets/7ac590dc-bd14-400a-93bb-38b1280416a8)
 
 > Compete against Albert Einstein in a theoretical science contest.
 
